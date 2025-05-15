@@ -1,4 +1,4 @@
-# BlinkIT-Data-Analysis-Prorject 
+# BlinkIT-Data-Analysis-Project 
 
 This project presents a detailed data analysis of grocery delivery data from **Blinkit (formerly Grofers)**. The goal is to uncover actionable business insights that can help improve customer experience, optimize product inventory, and boost sales performance.
 
