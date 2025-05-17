@@ -21,7 +21,6 @@ Using tools like **Excel**, **SQL**, and **Power BI**, I performed an end-to-end
 
 - **Microsoft Excel** – Data cleaning, pivot tables, and preliminary analysis  
 - **SQL** – Querying structured datasets and deriving key metrics  
-- **Power BI** – Visualizing insights with dynamic dashboards
 
 ---
 
@@ -43,8 +42,5 @@ Blinkit-Data-Analysis/
 │
 ├── 📁 SQL Queries/
 │   └── blinkit_queries.sql
-│
-├── 📈 Power BI Dashboard/
-│   └── blinkit_dashboard.pbix
 │
 └── README.md
